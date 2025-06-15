@@ -1,0 +1,14 @@
+C:\Users\louag\source\repos\DescendingOrderEx\DescendingOrderEx\bin\Debug\net8.0\DescendingOrderEx.exe
+C:\Users\louag\source\repos\DescendingOrderEx\DescendingOrderEx\bin\Debug\net8.0\DescendingOrderEx.deps.json
+C:\Users\louag\source\repos\DescendingOrderEx\DescendingOrderEx\bin\Debug\net8.0\DescendingOrderEx.runtimeconfig.json
+C:\Users\louag\source\repos\DescendingOrderEx\DescendingOrderEx\bin\Debug\net8.0\DescendingOrderEx.dll
+C:\Users\louag\source\repos\DescendingOrderEx\DescendingOrderEx\bin\Debug\net8.0\DescendingOrderEx.pdb
+C:\Users\louag\source\repos\DescendingOrderEx\DescendingOrderEx\obj\Debug\net8.0\DescendingOrderEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\DescendingOrderEx\DescendingOrderEx\obj\Debug\net8.0\DescendingOrderEx.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\DescendingOrderEx\DescendingOrderEx\obj\Debug\net8.0\DescendingOrderEx.AssemblyInfo.cs
+C:\Users\louag\source\repos\DescendingOrderEx\DescendingOrderEx\obj\Debug\net8.0\DescendingOrderEx.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\DescendingOrderEx\DescendingOrderEx\obj\Debug\net8.0\DescendingOrderEx.dll
+C:\Users\louag\source\repos\DescendingOrderEx\DescendingOrderEx\obj\Debug\net8.0\refint\DescendingOrderEx.dll
+C:\Users\louag\source\repos\DescendingOrderEx\DescendingOrderEx\obj\Debug\net8.0\DescendingOrderEx.pdb
+C:\Users\louag\source\repos\DescendingOrderEx\DescendingOrderEx\obj\Debug\net8.0\DescendingOrderEx.genruntimeconfig.cache
+C:\Users\louag\source\repos\DescendingOrderEx\DescendingOrderEx\obj\Debug\net8.0\ref\DescendingOrderEx.dll
